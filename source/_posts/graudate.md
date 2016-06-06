@@ -51,4 +51,4 @@ comments: true
 
 我要尽情拥抱这个世界！
 
-![毕业啦](/images/graduate.jpg)
+![毕业啦](/images/gradate.jpg)
