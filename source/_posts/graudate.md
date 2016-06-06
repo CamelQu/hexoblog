@@ -50,3 +50,5 @@ comments: true
 是时候说再见了，等这一刻真的很久了。
 
 我要尽情拥抱这个世界！
+
+![毕业啦](/images/graduate.jpg)
